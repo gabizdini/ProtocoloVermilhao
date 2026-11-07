@@ -1,0 +1,5 @@
+pygame-ce>=2.5      # (ou "pygame"; o código funciona com os dois)
+PyOpenGL>=3.1
+PyOpenGL_accelerate>=3.1
+numpy
+opencv-python       # usado só por gerar_texturas.py (os PNGs já vêm prontos)
