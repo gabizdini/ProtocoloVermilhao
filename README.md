@@ -3,7 +3,7 @@
 Trabalho Prático 1 — Computação Gráfica · IFSULDEMINAS, Campus Machado · Prof. Renan · entrega: 11/11/2026
 (Python + Pygame + PyOpenGL, API clássica).
 
-**Integrantes:** Gabrieli Diniz e _[nome da dupla — preencher]_
+**Integrante:** Gabrieli Diniz
 
 ## Objetivo do jogo
 A estação espacial perdeu sua fonte principal de energia. Pilote o drone de manutenção, **colete os 5 núcleos
